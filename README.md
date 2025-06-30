@@ -5,18 +5,6 @@
   Passionate about building real-world tech solutions and exploring the full stack!
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎓 Currently pursuing B.E. in Computer Science at Chitkara University
-- 💡 Enthusiastic about developing impactful and useful software products
-- 👨🏻‍💻 Working on Full-Stack Web Development with a strong focus on MERN & Java
-- 💬 Love collaborating on projects, learning from the dev community
-- 🎯 Currently sharpening skills in DSA, System Design, and Web App Architecture
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧾 Core Programming Languages
