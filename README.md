@@ -57,13 +57,6 @@
   </tr>
 </table> -->
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay-prashar&show_icons=true&theme=radical&border_radius=10" alt="Abhay's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-prashar&theme=radical&border_radius=10" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-prashar&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhay-prashar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
